@@ -1,0 +1,6 @@
+/.vscode
+/bulletin_board.txt
+/elgamal_evoting.py
+/key_generation.py
+/paillier_evoting.py
+/version.py
